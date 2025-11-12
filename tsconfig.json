@@ -3,6 +3,9 @@
   "compilerOptions": {
     /* Base Options from @tsconfig/node20 */
     
+    /* Type Definitions */
+    "types": ["jest", "node"],
+    
     /* Path Configuration */
     "outDir": "./dist",
     "rootDir": "./src",
